@@ -21,6 +21,9 @@ export const App: React.FunctionComponent = () => {
       <Text variant="xxLarge" styles={boldStyle}>
         Development in progress
       </Text>
+      <Text>
+        Testing deployment workflow
+      </Text>
     </Stack>
   );
 };
